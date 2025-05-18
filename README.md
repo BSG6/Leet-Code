@@ -1,18 +1,9 @@
-# LeetCode Practice 💻
+# 30 Days of Javascript 💻
 
-This repo is where I’ll be keeping my LeetCode solutions as I work through problems.
+T2667. Create Hello World Function
 
-### 📁 Structure
-Problems will be organized by category:
--30 days of Javascript
 
-Each file will include:
-- The problem link
-- My solution
 
-### 🛠 Tech
-Mostly JavaScript. Will sprinkle in Python and SQL later.
-
----
-
+Write a function createHelloWorld. It should return a new function that always returns "Hello World".
+ 
 
